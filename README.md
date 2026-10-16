@@ -1,5 +1,12 @@
-<h1 align="center">PC Insight Pro</h1>
-<p align="center"><b>Analysez entièrement votre PC Windows : matériel, pilotes, températures, santé — en temps réel.</b></p>
+<p align="center">
+  <img src="docs/images/banner.png" alt="PC Insight Pro — analysez entièrement votre PC Windows" width="100%">
+</p>
+
+<p align="center">
+  <a href="../../releases/latest"><img alt="Dernière version" src="https://img.shields.io/github/v/release/sebhoudelet-afk/PCInsightPro?label=version&color=0A84FF"></a>
+  <img alt="Plateforme" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4">
+  <img alt="Téléchargements" src="https://img.shields.io/github/downloads/sebhoudelet-afk/PCInsightPro/total?color=30D158">
+</p>
 
 <p align="center">
   <img src="docs/images/dashboard-dark.png" alt="Tableau de bord en mode sombre" width="880">
